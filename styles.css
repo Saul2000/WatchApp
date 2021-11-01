@@ -68,3 +68,12 @@ footer {
     font-family: Oswald;
     text-align: center;
   }
+
+  @media (max-width: 600px) {
+    .wrap {
+        margin-top: 30vh;
+    }
+    .widget {
+        width: 90%;
+    }
+}
